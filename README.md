@@ -1,16 +1,30 @@
-# currency_converter
+# currency_converter 💱
 
-A new Flutter project.
+A sleek, modern currency conversion application built with Flutter. It features real-time exchange rates, a glassmorphic UI design, and secure API key management using environment variables.
 
-## Getting Started
+## Features
+* **Real-time Conversion**: Get live exchange rates powered by ExchangeRate-API.
+* **Currency Picker**: Supports a wide range of global currencies with flags and symbols.
+* **Interactive UI**: Swappable "From/To" currencies and instant calculation as you type.
+* **Secure**: Sensitive API keys are managed via `.env` files and kept out of version control.
+* **Modern Design**: Features a deep gradient background with glassmorphism-inspired input cards.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+* **Framework**: Flutter
+* **Language**: Dart
+* **API**: ExchangeRate-API (V6)
+* **Key Packages**: 
+    * `flutter_dotenv` (Environment variables)
+    * `http` (API requests)
+    * `currency_picker` (Selection UI)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup and Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Prerequisites
+* Flutter SDK installed on your machine.
+* A free API key from [ExchangeRate-API](https://www.exchangerate-api.com/).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/krishj7725/Currency-Conversion.git](https://github.com/krishj7725/Currency-Conversion.git)
+cd Currency-Conversion
