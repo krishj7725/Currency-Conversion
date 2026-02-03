@@ -71,5 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 Made with ❤️ by Krish Jain
-</div>ion.git](https://github.com/krishj7725/Currency-Conversion.git)
-cd Currency-Conversion
+</div>
